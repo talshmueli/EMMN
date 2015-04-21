@@ -1,0 +1,1 @@
+{'min_depth': 3, 'samples_num': '10', 'db_file_path': None, 'min_size': 2, 'game': 'Nim', 'tag': 'Test12345', 'find_emmnv_vector': True, 'override': True, 'emmnv_vector_depth': '6', 'emmn_error': '0.3', 'max_depth': 13, 'max_size': 9, 'verbose': True}
